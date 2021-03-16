@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aghoshpro
 - 👀 I’m interested in Machine Learning and Geospatial Technologies (GIS)
 - 🌱 I’m currently learning Deeplearning 
-- 💞️ I’m looking to collaborate on Bristol-Myers Squibb – Molecular Translation on Kaggle
+- 💞️ I’m looking to collaborate on any search related to Geosaptial Climate Modelling
 - 📫 How to reach me: Drop a email on aghoshpro@gmail.com
 
 <!---
